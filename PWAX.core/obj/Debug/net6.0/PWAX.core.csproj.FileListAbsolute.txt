@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\bin\Debug\net6.0\PWAX.core.deps.json
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\bin\Debug\net6.0\PWAX.core.dll
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\bin\Debug\net6.0\PWAX.core.pdb
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.dll
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\refint\PWAX.core.dll
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\PWAX.core.pdb
+C:\Users\ASUS\source\repos\PWAX\PWAX.core\obj\Debug\net6.0\ref\PWAX.core.dll

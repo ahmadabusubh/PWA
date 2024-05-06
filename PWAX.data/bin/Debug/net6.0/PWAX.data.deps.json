@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PWAX.data/1.0.0": {
+        "dependencies": {
+          "PWAX.core": "1.0.0"
+        },
+        "runtime": {
+          "PWAX.data.dll": {}
+        }
+      },
+      "PWAX.core/1.0.0": {
+        "runtime": {
+          "PWAX.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PWAX.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PWAX.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
